@@ -14,11 +14,14 @@ The linear model predicts mpg effectively due to the multiple r-square value bei
 ### Deliverable 2: Summary Statistics on Suspension Coils
 
 
-#### Lot Summary
-
 #### Total Summary
 
+![Deliverable 2 Code](https://user-images.githubusercontent.com/87907584/143517241-b42fee46-b7b1-40de-90cd-0c5bea809d3c.PNG)
+![Deliverable 2 Total Summary](https://user-images.githubusercontent.com/87907584/143517249-d732a2e7-266e-473a-9164-925cc8b48b66.PNG)
 
+#### Lot Summary
+
+![Deliverable 2 Lot summary](https://user-images.githubusercontent.com/87907584/143517222-88c87dea-ef30-4814-8f62-213ecd750709.PNG)
 
 ### Deliverable 3: T-Test on Suspension Coils
 
