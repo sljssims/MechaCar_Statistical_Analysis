@@ -36,13 +36,20 @@ For all lots collectively, the p value of the suspension coil's PSI is .06208.  
 ![t test Lot 3](https://user-images.githubusercontent.com/87907584/143523067-602a1fbd-cb97-4616-976d-99c49a4aaaf1.PNG)
 
 ### Deliverable 4: Design a Study Comparing the MechaCar to the Competition
-- The statistical study design has the following:
-- A metric to be tested is mentioned
-- A null hypothesis or an alternative hypothesis is described
-- A statistical test is described to test the hypothesis
-- The data for the statistical test is described
+- The statistical study design has the following: <br>
+- A metric to be tested is mentioned <br>
+The study would perform an analysis of MechaCars weight and safety rating of SUVs to that of the competitions.<br>
+- A null hypothesis or an alternative hypothesis is described<br>
+ H0:There is no statistical difference for the defined metrics between the two datasets, MechaCar and the competition.<br> 
+ Ha:There is a statistical difference for the defined metrics between the two datasets, MechaCar and the competition.<br> 
+ Significance value = .05<br>
+- A statistical test is described to test the hypothesis. <br>
+To perform the analysis, we would use the ANOVA test as well as a boxplot to visualize the data. 
+- The data for the statistical test is described. <br>
+We would need to obtain the variables, weight and safety rating from a sampled dataset.  Additionally, we would need to filter out all other vehicle classes except SUV.
 
-A worthy study for MechaCar against the competition would be an analysis of 
+ 
+
 
 
 
