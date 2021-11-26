@@ -23,6 +23,10 @@ The linear model predicts mpg effectively due to the multiple r-square value bei
 ![Deliverable 2 Lot summary](https://user-images.githubusercontent.com/87907584/143517222-88c87dea-ef30-4814-8f62-213ecd750709.PNG)
 
 ### Deliverable 3: T-Test on Suspension Coils
+- Determine if the suspension coil’s pound-per-inch results are statistically different from the mean population results of 1,500 pounds per inch.
+As a whole, the p value of the suspenstion coild's PSI is .06208.  This is above the significance level of .05%.  This confirms that the data is not statistically different from the mean population data.  However, when grouped by lot, lots 1 and 2 had a p value of .6072, above the significance level of .05% which confirms that the data is not staitically different from the mean population data.  Alternatively, lot 3 had a p value of .04168, which is below the significance level which confirms that is IS statistically different from the mean population data. See outputs below.
+
+
 
 ### Deliverable 4: Design a Study Comparing the MechaCar to the Competition
 
