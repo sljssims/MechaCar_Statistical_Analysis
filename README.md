@@ -30,4 +30,5 @@ The linear model predicts mpg effectively due to the multiple r-square value bei
 
 
 
-Analysis presented in RStudio, Author Sharona Jones 
+Analysis presented in RStudio 
+Author; Sharona L. Jones 
