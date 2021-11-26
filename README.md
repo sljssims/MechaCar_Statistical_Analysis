@@ -26,10 +26,23 @@ The linear model predicts mpg effectively due to the multiple r-square value bei
 - Determine if the suspension coil’s pound-per-inch results are statistically different from the mean population results of 1,500 pounds per inch. <br>
 For all lots collectively, the p value of the suspension coil's PSI is .06208.  This is above the significance level of .05%.  This confirms that the data is not statistically different from the mean population data.  However, when grouped by lot, lots 1 and 2 had a p value of .6072, above the significance level of .05% which confirms that the data is not statistically different from the mean population data.  Alternatively, lot 3 had a p value of .04168, which is below the significance level which confirms that Lot 3 IS statistically different from the mean population data. See outputs below.
 
-
+#### T Test (All Data)
+![t test suspension_data](https://user-images.githubusercontent.com/87907584/143523192-ffa7e73d-93da-4c45-84cf-f3b1ef3b927f.PNG)
+#### T Test Lot 1
+![t test Lot 1](https://user-images.githubusercontent.com/87907584/143523061-fdbfa679-2c8e-43d0-8448-68c6ad7c0e0c.PNG)
+#### T Test Lot 2
+![t test Lot 2](https://user-images.githubusercontent.com/87907584/143523064-31feb0d7-c23b-4938-aa76-46db1bd05660.PNG)
+#### T Test Lot 3
+![t test Lot 3](https://user-images.githubusercontent.com/87907584/143523067-602a1fbd-cb97-4616-976d-99c49a4aaaf1.PNG)
 
 ### Deliverable 4: Design a Study Comparing the MechaCar to the Competition
+- The statistical study design has the following:
+- A metric to be tested is mentioned
+- A null hypothesis or an alternative hypothesis is described
+- A statistical test is described to test the hypothesis
+- The data for the statistical test is described
 
+A worthy study for MechaCar against the competition would be an analysis of 
 
 
 
