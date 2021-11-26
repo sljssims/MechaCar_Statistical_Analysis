@@ -8,6 +8,7 @@ Variables 'vehicle_length' and 'ground_clearance' both added non random variance
 The multiple r-square value calculated from the multiple linear regression model is 0.7149.  Combined with the p-value below the signicance level of .05%, the null hypotheses is rejected.  As such, the slope cannot be zero. 
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 The linear model predicts mpg effectively due to the multiple r-square value being 3.7149 abd the p-value being below the significance level of .05%.
+![Deliverable 1](https://user-images.githubusercontent.com/87907584/143512178-e4c7a0f8-6e5b-480a-8fdb-c2df00d770b2.PNG)
 
 ### Deliverable 2: Summary Statistics on Suspension Coils
 
